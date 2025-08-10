@@ -1,5 +1,6 @@
 # Installation
-git clone https://github.com/blackcode-hack/setup_tools.sh
+git clone https://github.com/blackcode-hack/setup_tools.sh /n
+cd setup_tools.sh /n
 chmod +x setup_tools.sh
 ./setup_tools.sh
 
