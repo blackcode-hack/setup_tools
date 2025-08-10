@@ -13,7 +13,7 @@ _________________________________________________________________________
 
 echo $0           <--------------- show you which path you use 
 
-sudo nano ~/.bashrc  #or  ~/.zshrc
+sudo nano ~/.bashrc  (##or)  ~/.zshrc
 _________________________________________________________________________
 # Then past this in last line 
 export GOROOT=/usr/local/go
@@ -26,4 +26,5 @@ _________________________________________________________________________
 
 # Then active this by doing 
 
-source ~/.bashrc   (#or)   ~/.zshrc
+source ~/.bashrc   (##or)   ~/.zshrc
+_________________________________________________________________________
