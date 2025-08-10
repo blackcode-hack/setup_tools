@@ -1,7 +1,10 @@
 # Installation
-git clone https://github.com/blackcode-hack/setup_tools.sh /n
-cd setup_tools.sh /n
+git clone https://github.com/blackcode-hack/setup_tools.sh
+
+cd setup_tools.sh 
+
 chmod +x setup_tools.sh
+
 ./setup_tools.sh
 
 # After finishing install past go path on ~/.bashrc or ~/.zshrc
