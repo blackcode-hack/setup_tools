@@ -6,23 +6,24 @@ cd setup_tools.sh
 chmod +x setup_tools.sh
 
 ./setup_tools.sh
-
-# After finishing install past go path on ~/.bashrc or ~/.zshrc
-
-..............
-
+_________________________________________________________________________
 # But first how can i now which path i use ....?
 
 ## answer is
 
 echo $0    <--------------- show you which path you use 
-
+_________________________________________________________________________
 # Then past this in last line 
 export GOROOT=/usr/local/go
 
 export GOPATH=$HOME/go
 
 export PATH=$GOPATH/bin:$GOROOT/bin:$PATH
+
+# After finishing install past go path on ~/.bashrc or ~/.zshrc
+
+sudo nano ~/.bashrc or ~/.zshrc
+_________________________________________________________________________
 
 # Then active this by doing 
 
