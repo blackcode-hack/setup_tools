@@ -26,4 +26,4 @@ _________________________________________________________________________
 
 # Then active this by doing 
 
-source ~/.bashrc   #or   ~/.zshrc
+source ~/.bashrc   (#or)   ~/.zshrc
